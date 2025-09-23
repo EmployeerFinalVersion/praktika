@@ -10,4 +10,4 @@
 | --------- |
 | данные ячейки 1|
 
-!(https://wikigrib.ru/ts/images/podverezovik-03.jpg)
+![Пример изображения](https://wikigrib.ru/ts/images/podverezovik-03.jpg)
